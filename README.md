@@ -1,4 +1,4 @@
-# AWS-ECS-Deployment-with-CI-CD-Pipeline-on-AWS-Cloud\
+# AWS-ECS-Deployment-with-CI-CD-Pipeline-on-AWS-Cloud
 
 ![architecture](Steps/project.png)
 
