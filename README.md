@@ -39,8 +39,13 @@ Create an ECR repository to store your Docker images.
 
 1. Go to the ECR console.
 2. Click on "Create repository".
-3. Follow the instructions to create the repository.
-4. Click on "View push commands" to get the commands for pushing your Docker image to ECR.
+
+![step1a](Steps/Step-1a.png)
+
+4. Follow the instructions to create the repository.
+5. Click on "View push commands" to get the commands for pushing your Docker image to ECR.
+
+![step1b](Steps/Step1b.png)
 
 ### Step 2: Create AWS User
 
@@ -49,7 +54,10 @@ Create an AWS user with the necessary permissions to access ECR and ECS.
 1. Go to the IAM console.
 2. Click on "Users" and then "Add user".
 3. Assign `AmazonEC2ContainerRegistryFullAccess` policy to the user.
-4. Configure security credentials for the user to be used for uploading Docker images.
+
+![step2a](Steps/Step2a.png)
+
+5. Configure security credentials for the user to be used for uploading Docker images.
 
 ### Step 3: Create and Push Image to AWS ECR Repository
 
@@ -93,6 +101,10 @@ sudo docker push <your-account-id>.dkr.ecr.us-east-1.amazonaws.com/devildevops:l
 ### Step 4: Create Security Groups
 
 Create security groups for the Application Load Balancer (ALB).
+
+![step4a](Steps/Step-4a.png)
+
+![step4a](Steps/Step4a.png)
 
 ### Step 5: Create ECS Fargate Cluster
 
