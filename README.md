@@ -1,4 +1,8 @@
-# AWS-ECS-Deployment-with-CI-CD-Pipeline-on-AWS-Cloud
+# AWS-ECS-Deployment-with-CI-CD-Pipeline-on-AWS-Cloud\
+
+![architecture](Steps/project.png)
+
+This project demonstrates the deployment of a Docker image into an Amazon ECS (Elastic Container Service) Cluster and the creation of a CI/CD pipeline for automating the entire process. The project utilizes various AWS resources and services including Amazon ECR (Elastic Container Registry), ECS, CodeCommit, CodeBuild, CodeDeploy, and CodePipeline.
 
 ## Table of Contents
 
