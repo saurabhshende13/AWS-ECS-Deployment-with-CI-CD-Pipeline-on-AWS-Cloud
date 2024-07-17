@@ -110,9 +110,17 @@ Create security groups for the Application Load Balancer (ALB).
 
 Create an ECS Fargate cluster to run your containers.
 
+![step5a](Steps/Step5a.png)
+
 ### Step 6: Create Task Definition
 
 Define the task that specifies which Docker image to use and the necessary resources.
+
+![step6a](Steps/Step6a.png)
+
+![step6b](Steps/Step6b.png)
+
+![step6c](Steps/Step6c.png)
 
 ### Step 7: Create ECS Service with Application Load Balancer
 
