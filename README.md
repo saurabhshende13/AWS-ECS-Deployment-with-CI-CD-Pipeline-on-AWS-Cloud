@@ -128,6 +128,16 @@ Create an ECS service that uses the task definition and is associated with the A
 
 **Note:** Update the ALB security group with the ALB-to-ECS security group.
 
+![step7a](Steps/Step7a.png)
+
+![step7b](Steps/Step7b.png)
+
+![step7c](Steps/Step7c.png)
+
+![step7d](Steps/Step7d.png)
+
+![step7e](Steps/Step7e.png)
+
 ### Step 8: Create CodeCommit Repository
 
 Create a CodeCommit repository and push your code to it.
