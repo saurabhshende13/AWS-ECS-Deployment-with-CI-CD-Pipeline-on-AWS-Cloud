@@ -176,6 +176,18 @@ Give below permission to IAM User.
 
 Create a CodePipeline to automate the CI/CD process, including CodeCommit, CodeBuild, and ECS deployment steps.
 
+![step10a](Steps/Step10a.png)
+
+![step10b](Steps/Step10b.png)
+
+![step10c](Steps/Step10c.png)
+
+![step10d](Steps/Step10d.png)
+
+![step10e](Steps/Step10e.png)
+
+
+
 Add variables in the build section to replace values in `buildspec.yml`.
 
 ## License
