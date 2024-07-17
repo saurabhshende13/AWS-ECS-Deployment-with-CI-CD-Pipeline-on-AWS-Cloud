@@ -160,6 +160,18 @@ Clone the codecommit repository and push you code
 
 Create a CodeBuild project to build and test your code.
 
+![step9a](Steps/Step9a.png)
+
+![step9b](Steps/Step9b.png)
+
+![step9c](Steps/Step9c.png)
+
+![step9d](Steps/Step9d.png)
+
+Give below permission to IAM User.
+
+![step9e](Steps/Step9e.png)
+
 ### Step 10: Create CodePipeline
 
 Create a CodePipeline to automate the CI/CD process, including CodeCommit, CodeBuild, and ECS deployment steps.
