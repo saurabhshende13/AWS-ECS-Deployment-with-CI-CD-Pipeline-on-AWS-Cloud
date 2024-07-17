@@ -142,6 +142,20 @@ Create an ECS service that uses the task definition and is associated with the A
 
 Create a CodeCommit repository and push your code to it.
 
+![step8a](Steps/Step8a.png)
+
+Provide user below permissions.
+
+![step8b](Steps/Step8b.png)
+
+Create https git credentials for user to push the code.
+
+![step8c](Steps/Step8c.png)
+
+Clone the codecommit repository and push you code
+
+![step8d](Steps/Step8d.png)
+
 ### Step 9: Create CodeBuild Project
 
 Create a CodeBuild project to build and test your code.
