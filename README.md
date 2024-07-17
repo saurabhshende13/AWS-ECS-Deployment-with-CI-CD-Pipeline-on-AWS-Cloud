@@ -104,7 +104,7 @@ Create security groups for the Application Load Balancer (ALB).
 
 ![step4a](Steps/Step-4a.png)
 
-![step4a](Steps/Step4a.png)
+![step4a](Steps/Step4b.png)
 
 ### Step 5: Create ECS Fargate Cluster
 
