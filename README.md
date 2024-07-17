@@ -25,7 +25,7 @@
 
 ## Architecture
 
-![Architecture Diagram](link-to-architecture-diagram)
+The architecture diagram and reference files for this project can be found in the [GitHub repository](https://github.com/saurabhshende13/Static-Website-Hosting-on-AWS-Using-S3-CloudFront-ACM-Route-53-and-AWS-CodePipeline.git).
 
 ## Steps
 
