@@ -180,15 +180,14 @@ Create a CodePipeline to automate the CI/CD process, including CodeCommit, CodeB
 
 ![step10b](Steps/Step10b.png)
 
+Add variables in the build section to replace values in `buildspec.yml`.
+
 ![step10c](Steps/Step10c.png)
 
 ![step10d](Steps/Step10d.png)
 
 ![step10e](Steps/Step10e.png)
 
-
-
-Add variables in the build section to replace values in `buildspec.yml`.
 
 ## License
 
